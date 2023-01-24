@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PAPA BADARA NDIAYE</h1>
+<h1 align="center">Hi 👋, I'm PAPA BN</h1>
 <h3 align="center">A passionate junior frontend developer from SENEGAL</h3>
 
 - 🌱 I’m currently learning **python,php,javascript,java..**
