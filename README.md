@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PAPA BN</h1>
 <h3 align="center">A passionate junior frontend developer from SENEGAL</h3>
 
-- 🌱 I’m currently learning **python,php,javascript,java..**
+- 🌱 I’m currently learning **Software engineering**
 
 - 📫 How to reach me **pndiaye999@gmail.com**
 
