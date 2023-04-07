@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PAPA BN</h1>
-<h3 align="center">A passionate junior frontend developer from SENEGAL</h3>
+<h3 align="center">A passionate junior Web developer from SENEGAL</h3>
 
 - 🌱 I’m currently learning **Software engineering**
 
