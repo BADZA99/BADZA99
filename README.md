@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm PAPA BN</h1>
 <h3 align="center">A passionate frontend developer from SENEGAL</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badza99" alt="badza99" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://papabn.netlify.app/](https://papabn.netlify.app/)
 
 - 📫 How to reach me **pndiaye999àgmail.com**
@@ -18,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=badza99&show_icons=true&locale=en&layout=compact" alt="badza99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badza99&show_icons=true&locale=en" alt="badza99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badza99&" alt="badza99" /></p>
