@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PAPA BN</h1>
 <h3 align="center">A passionate frontend developer from SENEGAL</h3>
 
-- 👨‍💻 All of my projects are available at [https://papabn.netlify.app/](https://papabndev.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://papabndev.netlify.app/)
 
 - 📫 How to reach me **pndiaye999àgmail.com**
 
