@@ -1,5 +1,31 @@
 # 💫 About Me:
-I am Front End Developer with a passion for internet technologies and new challenges. I have a solid education in computer science and web development.
+# **Papa Badara Ndiaye**
+
+Hello, I'm **Papa Badara Ndiaye**, a Senegalese student pursuing a degree in software engineering 🇸🇳. As a Front-End developer, I am passionate about crafting exceptional user experiences.
+
+## **Skills**
+
+- 💻 **Languages :** HTML, CSS, JavaScript
+- ⚛️ **Frameworks :** React.js
+- 🌐 Responsive design and web accessibility
+- 🚀 Building interactive and user-friendly interfaces
+
+
+
+## **Experience**
+
+- 🎓 Software Engineering student at ISI
+- 💼 Front-End Developer
+
+## **Contact**
+
+- 📧 **Email :**pndiaye999@gmail.com
+- 🔗 **LinkedIn :** (https://www.linkedin.com/in/papa-badara-ndiaye-948420267/)
+- 🌐 **Portfolio :** (https://papabndev.netlify.app/)
+
+Feel free to explore my GitHub repositories to discover my projects and reach out for discussions about collaborations or new opportunities. *Let's code and build amazing things together!* 🚀
+
+
 
 
 ## 🌐 Socials:
