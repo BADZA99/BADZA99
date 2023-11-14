@@ -1,6 +1,4 @@
 # 💫 About Me:
-# **Papa Badara Ndiaye**
-
 Hello, I'm **Papa Badara Ndiaye**, a Senegalese student pursuing a degree in software engineering 🇸🇳. As a Front-End developer, I am passionate about crafting exceptional user experiences.
 
 ## **Skills**
