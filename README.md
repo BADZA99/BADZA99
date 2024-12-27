@@ -4,7 +4,7 @@ Hello, I'm **Papa Badara Ndiaye**, a Senegalese student pursuing a degree in sof
 ## **Skills**
 
 - 💻 Languages :HTML, CSS, JavaScript
-- ⚛️ Frameworks :React.js/Next.js and Laravel
+- ⚛️ Frameworks :React.js/Next.js React Native and  and Laravel
 - 🌐 Responsive design and web accessibility
 - 🚀 Building interactive and user-friendly interfaces
 
@@ -13,7 +13,7 @@ Hello, I'm **Papa Badara Ndiaye**, a Senegalese student pursuing a degree in sof
 ## **Experience**
 
 - 🎓 Software Engineering student at ISI
-- 💼 Front-End Developer
+- 💼 Full Stack Developer
 
 ## **Contact**
 
