@@ -2,15 +2,15 @@
 > _I code daily — shipping tools, bots, and ideas that grow in silence. Not for the streak, but for the vision._  
 > _Thanks for watching from the shadows — it means a lot!_
 
-<p float="left">
-  <img align="left" width="390" alt="Classic Metrics" src="https://raw.githubusercontent.com/BADZA99/metrics/master/metrics.classic.svg">
-  <img align="right" width="390" alt="WakaTime Metrics" src="https://raw.githubusercontent.com/BADZA99/metrics/master/metrics.plugin.wakatime.svg">
-</p>
+[<img align="left" width="390" alt="🦇" src="https://raw.githubusercontent.com/BADZA99/metrics/master/metrics.classic.svg">](#)
 
-<p float="left">
-  <img align="right" width="390" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BADZA99&hide_border=true&show_icons=true&theme=tokyonight&bg_color=FF000000&text_color=777777">
-  <img align="right" width="390" alt="Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=BADZA99&theme=tokyonight&hide_border=true&background=FF000000">
-</p>
+[<img align="right" width="390" alt="🦇" src="https://raw.githubusercontent.com/BADZA99/metrics/master/metrics.plugin.wakatime.svg">](#)
+
+[<img align="right" width="390" alt="🦇" src="https://github-readme-stats.vercel.app/api?username=BADZA99&hide_border=true&show_icons=true&theme=tokyonight&bg_color=FF000000&text_color=777777">](#)
+
+[<img align="right" width="390" alt="🦇" src="http://github-readme-streak-stats.herokuapp.com?user=BADZA99&theme=tokyonight&hide_border=true&&dates=777777&background=FF000000">](#)
+
+[<img align="right" width="410" alt="🦇" src="https://github-profile-trophy.vercel.app/?username=BADZA99&theme=radical&no-bg=true">](#)
 
 ---
 
@@ -60,9 +60,9 @@ Full-Stack & Front-End Developer (React.js, Next.js, Laravel, Spring Boot)
 ---
 
 ## 📊 GitHub Stats  
-|  |  |
-|--|--|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=BADZA99&theme=dark&show_icons=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BADZA99&theme=dark) |
+|                                                                                                                |                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=BADZA99&theme=dark&show_icons=true)               | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BADZA99&theme=dark)             |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BADZA99&theme=dark&layout=compact) | ![Trophies](https://github-profile-trophy.vercel.app/?username=BADZA99&theme=radical&no-bg=true) |
 
 ---
