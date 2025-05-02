@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/en/0/03/Madara_Uchiha.png" alt="Madara Uchiha">
+    <img src="https://media.tenor.com/EpgxcRD1ydsAAAAM/madara-uchiha.gif" alt="Madara Uchiha">
 </p>
 
 ---
