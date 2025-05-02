@@ -38,10 +38,25 @@ Full-Stack Developer (React.js, Next.js, Laravel, Spring Boot)
 🐙 [GitHub @BADZA99](https://github.com/BADZA99)  
 🐦 [Twitter @papabn99](https://twitter.com/papabn99)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BADZA99&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BADZA99&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BADZA99&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="left">
+                    <h3>📊 GitHub Stats:</h3>
+                    <img src="https://github-readme-stats.vercel.app/api?username=BADZA99&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"><br/>
+                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BADZA99&theme=dark&hide_border=false" alt="GitHub Streak Stats"><br/>
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BADZA99&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+                </div>
+            </td>
+            <td>
+                <img src="https://upload.wikimedia.org/wikipedia/en/0/03/Madara_Uchiha.png" alt="Madara Uchiha" width="400">
+            </td>
+        </tr>
+    </table>
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BADZA99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
