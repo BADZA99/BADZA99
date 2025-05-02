@@ -1,16 +1,8 @@
-> Always grinding — sometimes solo, sometimes with the crew.  
-> _I code daily — shipping tools, bots, and ideas that grow in silence. Not for the streak, but for the vision._  
-> _Thanks for watching from the shadows — it means a lot!_
+| Always grinding — sometimes solo, sometimes with the crew.  
+| _I code daily — shipping tools, bots, and ideas that grow in silence. Not for the streak, but for the vision._  
+| _Thanks for watching from the shadows — it means a lot!_
 
-[<img align="left" width="390" alt="🦇" src="https://raw.githubusercontent.com/BADZA99/metrics/master/metrics.classic.svg">](#)
-
-[<img align="right" width="390" alt="🦇" src="https://raw.githubusercontent.com/BADZA99/metrics/master/metrics.plugin.wakatime.svg">](#)
-
-[<img align="right" width="390" alt="🦇" src="https://github-readme-stats.vercel.app/api?username=BADZA99&hide_border=true&show_icons=true&theme=tokyonight&bg_color=FF000000&text_color=777777">](#)
-
-[<img align="right" width="390" alt="🦇" src="http://github-readme-streak-stats.herokuapp.com?user=BADZA99&theme=tokyonight&hide_border=true&&dates=777777&background=FF000000">](#)
-
-[<img align="right" width="410" alt="🦇" src="https://github-profile-trophy.vercel.app/?username=BADZA99&theme=radical&no-bg=true">](#)
+| [Metrics](#) | [Wakatime](#) | [GitHub Stats](#) | [Streak Stats](#) | [Trophies](#) |
 
 ---
 
@@ -28,17 +20,7 @@ Full-Stack & Front-End Developer (React.js, Next.js, Laravel, Spring Boot)
 ---
 
 ## 💻 Tech Stack  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react)  
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)  
-![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react)  
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot)  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js)  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql)  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git)
+HTML5 | CSS3 | JavaScript | React | Next.js | React Native | Laravel | Spring Boot | Node.js | MySQL | Git
 
 ---
 
@@ -51,19 +33,18 @@ Full-Stack & Front-End Developer (React.js, Next.js, Laravel, Spring Boot)
 ---
 
 ## 📫 Contact & Socials  
-- ✉️ pndiaye999@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/papa-badara-ndiaye-948420267/)  
-- 🌐 [Portfolio](https://papabndev.netlify.app/)  
-- 🐙 [GitHub @BADZA99](https://github.com/BADZA99)  
-- 🐦 [Twitter @papabn99](https://twitter.com/papabn99)
+✉️ pndiaye999@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/papa-badara-ndiaye-948420267/)  
+🌐 [Portfolio](https://papabndev.netlify.app/)  
+🐙 [GitHub @BADZA99](https://github.com/BADZA99)  
+🐦 [Twitter @papabn99](https://twitter.com/papabn99)
 
 ---
 
 ## 📊 GitHub Stats  
-|                                                                                                                |                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=BADZA99&theme=dark&show_icons=true)               | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BADZA99&theme=dark)             |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BADZA99&theme=dark&layout=compact) | ![Trophies](https://github-profile-trophy.vercel.app/?username=BADZA99&theme=radical&no-bg=true) |
+| Stats | Streak | Top Langs | Trophies |
+|-------|--------|-----------|----------|
+| [Stats](https://github-readme-stats.vercel.app/api?username=BADZA99&theme=dark&show_icons=true) | [Streak](http://github-readme-streak-stats.herokuapp.com/?user=BADZA99&theme=dark) | [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BADZA99&theme=dark&layout=compact) | [Trophies](https://github-profile-trophy.vercel.app/?username=BADZA99&theme=radical&no-bg=true) |
 
 ---
 
