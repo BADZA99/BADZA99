@@ -55,11 +55,12 @@ Full-Stack Developer (React.js, Next.js, Laravel, Spring Boot)
 
 
 <p align="center">
+    ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
     <img src="https://media.tenor.com/EpgxcRD1ydsAAAAM/madara-uchiha.gif" alt="Madara Uchiha">
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BADZA99&limit=5&theme=dark&combine_all_yearly_contributions=true)
