@@ -1,8 +1,3 @@
-
-<p align="center">
-    <img src="https://media.tenor.com/EpgxcRD1ydsAAAAM/madara-uchiha.gif" alt="Madara Uchiha">
-</p>
-
 ---
 
 # 👋 Hi, I’m **Papa Badara Ndiaye**  
@@ -56,6 +51,12 @@ Full-Stack Developer (React.js, Next.js, Laravel, Spring Boot)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BADZA99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
+<p align="center">
+    <img src="https://media.tenor.com/EpgxcRD1ydsAAAAM/madara-uchiha.gif" alt="Madara Uchiha">
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
