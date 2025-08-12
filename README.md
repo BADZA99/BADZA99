@@ -54,11 +54,10 @@ Full-Stack Developer (React.js, Next.js, Laravel, Spring Boot)
 
 
 
-<p align="center">
-    ### ✍️ Random Dev Quote
+
+
+ ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-    <img src="https://media.tenor.com/EpgxcRD1ydsAAAAM/madara-uchiha.gif" alt="Madara Uchiha">
-</p>
 
 
 
@@ -68,4 +67,6 @@ Full-Stack Developer (React.js, Next.js, Laravel, Spring Boot)
 ---
 [![](https://visitcount.itsvg.in/api?id=BADZA99&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+    <img src="https://media.tenor.com/EpgxcRD1ydsAAAAM/madara-uchiha.gif" alt="Madara Uchiha">
+</p>
