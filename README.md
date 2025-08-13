@@ -14,9 +14,9 @@ Full-Stack Developer (React.js, Next.js, Laravel, Spring Boot)
 ---
 
 ## 💻 Tech Stack  
-| **Frontend** | **Backend** | **AI / Cloud / DevOps** | **Mobile** | **Bases de données** | **Tests** |
+| **Frontend** | **Backend** | **Cloud / DevOps** | **Mobile** | **Bases de données** | **Tests** |
 |--------------|-------------|------------------------|------------|----------------------|-----------|
-| React, Next.js, Bootstrap, MUI, Three.js | Laravel, Express.js, Spring Boot | AWS, Docker, Jenkins | React Native | MySQL, PostgreSQL, Oracle | Robot Framework |
+| React, Next.js, Bootstrap, MUI, Three.js | Laravel, Express.js, Spring Boot | AWS, Docker, Jenkins,github actions | React Native | MySQL, PostgreSQL, Oracle | Robot Framework |
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
