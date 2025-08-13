@@ -1,4 +1,3 @@
----
 
 # 👋 Hi, I’m **Papa Badara Ndiaye**  
 Master 1 software engeneering student @ ISI Dakar 🇸🇳  
